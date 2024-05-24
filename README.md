@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Amar.k</h1>
+<h1 align="center">Hi 👋, I'm Amar</h1>
 <h3 align="center">MERN Stack Developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amar-20&label=Profile%20views&color=0e75b6&style=flat" alt="amar-20" /> </p>
 
 - 💬 Ask me about **JavaScript, React, Node**
 
