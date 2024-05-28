@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amar</h1>
 <h3 align="center">MERN Stack Developer</h3>
 
-- 💬 Ask me about **JavaScript, React, Node**
+- 💬 Ask me about **JavaScript, React, Node, Express**
 
 - 📫 How to reach me **konangeri1720@gmail.com**
 
