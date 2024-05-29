@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Amar</h1>
 <h3 align="center">MERN Stack Developer</h3>
 
-- 💬 Ask me about **JavaScript, React, Node, Express**
+- 💬 Ask me about __JavaScript, React, Node, Express__
 
 - 📫 How to reach me **konangeri1720@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/amar k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amar k" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/amar k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amar k linkedin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
