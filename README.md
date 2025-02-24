@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amar</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 💬 Ask me about __Java, Spring boot, Spring, Python, JavaScript, React, Node, Mongo DB__
+- 💬 Ask me about __Java, Spring boot, Spring, Python, JavaScript, React, Node, MongoDB__
 
 <h3 align="left">Connect with me:</h3
 <p align="left">
